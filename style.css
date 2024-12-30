@@ -7,8 +7,8 @@ body {
     align-items: center;
     background: black;
 }
-nav {
-
+nav>img {
+    width: 30vw;
 }
 .mobile {
     position: absolute;
